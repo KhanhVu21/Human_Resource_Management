@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kdp+VCbM9WIxjEE9xOORlxsIZ7ICgTyBoe03+g+P4DzxHKOBWyQFg/hSSquTpNZNDO0WVa7JRBtl9pamHS4F/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\khanhzu\\Desktop\\HumanResourceManagement\\HR.Application.Interface\\HR.Application.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khanhzu\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
+    "C:\\Users\\khanhzu\\.nuget\\packages\\mailkit\\4.1.0\\mailkit.4.1.0.nupkg.sha512",
+    "C:\\Users\\khanhzu\\.nuget\\packages\\mimekit\\4.1.0\\mimekit.4.1.0.nupkg.sha512",
+    "C:\\Users\\khanhzu\\.nuget\\packages\\system.formats.asn1\\7.0.0\\system.formats.asn1.7.0.0.nupkg.sha512",
+    "C:\\Users\\khanhzu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\khanhzu\\.nuget\\packages\\system.security.cryptography.pkcs\\7.0.2\\system.security.cryptography.pkcs.7.0.2.nupkg.sha512",
+    "C:\\Users\\khanhzu\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

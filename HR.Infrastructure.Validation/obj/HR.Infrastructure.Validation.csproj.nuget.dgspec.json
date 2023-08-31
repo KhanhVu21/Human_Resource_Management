@@ -1,0 +1,194 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\khanhzu\\Desktop\\HumanResourceManagement\\HR.Infrastructure.Validation\\HR.Infrastructure.Validation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\khanhzu\\Desktop\\HumanResourceManagement\\HR.Application.Dto\\HR.Application.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\khanhzu\\Desktop\\HumanResourceManagement\\HR.Application.Dto\\HR.Application.Dto.csproj",
+        "projectName": "HR.Application.Dto",
+        "projectPath": "C:\\Users\\khanhzu\\Desktop\\HumanResourceManagement\\HR.Application.Dto\\HR.Application.Dto.csproj",
+        "packagesPath": "C:\\Users\\khanhzu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\khanhzu\\Desktop\\HumanResourceManagement\\HR.Application.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\khanhzu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\khanhzu\\Desktop\\HumanResourceManagement\\HR.Domain.Core\\HR.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\khanhzu\\Desktop\\HumanResourceManagement\\HR.Domain.Core\\HR.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\khanhzu\\Desktop\\HumanResourceManagement\\HR.Domain.Core\\HR.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\khanhzu\\Desktop\\HumanResourceManagement\\HR.Domain.Core\\HR.Domain.Core.csproj",
+        "projectName": "HR.Domain.Core",
+        "projectPath": "C:\\Users\\khanhzu\\Desktop\\HumanResourceManagement\\HR.Domain.Core\\HR.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\khanhzu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\khanhzu\\Desktop\\HumanResourceManagement\\HR.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\khanhzu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\khanhzu\\Desktop\\HumanResourceManagement\\HR.Infrastructure.Validation\\HR.Infrastructure.Validation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\khanhzu\\Desktop\\HumanResourceManagement\\HR.Infrastructure.Validation\\HR.Infrastructure.Validation.csproj",
+        "projectName": "HR.Infrastructure.Validation",
+        "projectPath": "C:\\Users\\khanhzu\\Desktop\\HumanResourceManagement\\HR.Infrastructure.Validation\\HR.Infrastructure.Validation.csproj",
+        "packagesPath": "C:\\Users\\khanhzu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\khanhzu\\Desktop\\HumanResourceManagement\\HR.Infrastructure.Validation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\khanhzu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\khanhzu\\Desktop\\HumanResourceManagement\\HR.Application.Dto\\HR.Application.Dto.csproj": {
+                "projectPath": "C:\\Users\\khanhzu\\Desktop\\HumanResourceManagement\\HR.Application.Dto\\HR.Application.Dto.csproj"
+              },
+              "C:\\Users\\khanhzu\\Desktop\\HumanResourceManagement\\HR.Domain.Core\\HR.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\khanhzu\\Desktop\\HumanResourceManagement\\HR.Domain.Core\\HR.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0-preview.7.23375.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Utilities\bin\Debug\net6.0\HR.Application.Utilities.deps.json
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Utilities\bin\Debug\net6.0\HR.Application.Utilities.dll
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Utilities\bin\Debug\net6.0\HR.Application.Utilities.pdb
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Utilities\obj\Debug\net6.0\HR.Application.Utilities.csproj.AssemblyReference.cache
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Utilities\obj\Debug\net6.0\HR.Application.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Utilities\obj\Debug\net6.0\HR.Application.Utilities.AssemblyInfoInputs.cache
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Utilities\obj\Debug\net6.0\HR.Application.Utilities.AssemblyInfo.cs
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Utilities\obj\Debug\net6.0\HR.Application.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Utilities\obj\Debug\net6.0\HR.Application.Utilities.dll
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Utilities\obj\Debug\net6.0\refint\HR.Application.Utilities.dll
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Utilities\obj\Debug\net6.0\HR.Application.Utilities.pdb
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Utilities\obj\Debug\net6.0\ref\HR.Application.Utilities.dll

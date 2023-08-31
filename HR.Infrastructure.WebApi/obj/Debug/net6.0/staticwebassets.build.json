@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iPmgQdc0ymzR6nzONcrtJwQGE63JA0wtYed7rO4rMM8=",
+  "Source": "HR.Infrastructure.WebApi",
+  "BasePath": "_content/HR.Infrastructure.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

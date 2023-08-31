@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\HR.Infrastructure.WebApi.props" />
+</Project>

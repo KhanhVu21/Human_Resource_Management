@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nUR4/WFHSbyoss2orzA96jAy0E/MIUPKUT3A4/hTnYDaVlXmo0Jx98BtPtYayO7efJ0WkSRuX+quk+t4oLiC0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\khanhzu\\Desktop\\HumanResourceManagement\\HR.Infrastructure.Validation\\HR.Infrastructure.Validation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khanhzu\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\khanhzu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0-preview.7.23375.6\\microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.7.23375.6.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Queries\bin\Debug\net6.0\HR.Application.Queries.deps.json
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Queries\bin\Debug\net6.0\HR.Application.Queries.dll
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Queries\bin\Debug\net6.0\HR.Application.Queries.pdb
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Queries\obj\Debug\net6.0\HR.Application.Queries.csproj.AssemblyReference.cache
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Queries\obj\Debug\net6.0\HR.Application.Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Queries\obj\Debug\net6.0\HR.Application.Queries.AssemblyInfoInputs.cache
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Queries\obj\Debug\net6.0\HR.Application.Queries.AssemblyInfo.cs
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Queries\obj\Debug\net6.0\HR.Application.Queries.csproj.CoreCompileInputs.cache
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Queries\obj\Debug\net6.0\HR.Application.Queries.dll
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Queries\obj\Debug\net6.0\refint\HR.Application.Queries.dll
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Queries\obj\Debug\net6.0\HR.Application.Queries.pdb
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Queries\obj\Debug\net6.0\ref\HR.Application.Queries.dll

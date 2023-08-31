@@ -1,0 +1,12 @@
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Domain.Kernel\obj\Debug\net6.0\HR.Domain.Kernel.csproj.AssemblyReference.cache
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Domain.Kernel\obj\Debug\net6.0\HR.Domain.Kernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Domain.Kernel\obj\Debug\net6.0\HR.Domain.Kernel.AssemblyInfoInputs.cache
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Domain.Kernel\obj\Debug\net6.0\HR.Domain.Kernel.AssemblyInfo.cs
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Domain.Kernel\obj\Debug\net6.0\HR.Domain.Kernel.csproj.CoreCompileInputs.cache
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Domain.Kernel\bin\Debug\net6.0\HR.Domain.Kernel.deps.json
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Domain.Kernel\bin\Debug\net6.0\HR.Domain.Kernel.dll
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Domain.Kernel\bin\Debug\net6.0\HR.Domain.Kernel.pdb
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Domain.Kernel\obj\Debug\net6.0\HR.Domain.Kernel.dll
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Domain.Kernel\obj\Debug\net6.0\refint\HR.Domain.Kernel.dll
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Domain.Kernel\obj\Debug\net6.0\HR.Domain.Kernel.pdb
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Domain.Kernel\obj\Debug\net6.0\ref\HR.Domain.Kernel.dll

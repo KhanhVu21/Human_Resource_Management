@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\HR.Application.Dto\HR.Application.Dto.csproj" />
+      <ProjectReference Include="..\HR.Application.Interface\HR.Application.Interface.csproj" />
+      <ProjectReference Include="..\HR.Application.Queries\HR.Application.Queries.csproj" />
+      <ProjectReference Include="..\HR.Application.Utilities\HR.Application.Utilities.csproj" />
+      <ProjectReference Include="..\HR.Domain.Core\HR.Domain.Core.csproj" />
+      <ProjectReference Include="..\HR.Domain.Kernel\HR.Domain.Kernel.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Dapper" Version="2.0.151" />
+      <PackageReference Include="Mapster" Version="7.4.0-pre06" />
+      <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.0-preview3.23201.1" />
+      <PackageReference Include="Microsoft.Extensions.Configuration" Version="8.0.0-preview.7.23375.6" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.0-preview.7.23375.6" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HR.Application.Dto/1.0.0": {
+        "dependencies": {
+          "HR.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "HR.Application.Dto.dll": {}
+        }
+      },
+      "HR.Domain.Core/1.0.0": {
+        "runtime": {
+          "HR.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HR.Application.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HR.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

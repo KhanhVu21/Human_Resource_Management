@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+    <PackageReference Include="FluentValidation" Version="11.7.1" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+    <PackageReference Include="Mapster" Version="7.4.0-pre06" />
+    <PackageReference Include="Serilog" Version="3.0.2-dev-02044" />
+    <PackageReference Include="Serilog.AspNetCore" Version="7.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HR.Application.Dto\HR.Application.Dto.csproj" />
+    <ProjectReference Include="..\HR.Application.Implement\HR.Application.Implement.csproj" />
+    <ProjectReference Include="..\HR.Application.Interface\HR.Application.Interface.csproj" />
+    <ProjectReference Include="..\HR.Application.Utilities\HR.Application.Utilities.csproj" />
+    <ProjectReference Include="..\HR.Domain.Core\HR.Domain.Core.csproj" />
+    <ProjectReference Include="..\HR.Domain.Kernel\HR.Domain.Kernel.csproj" />
+    <ProjectReference Include="..\HR.Infrastructure.Validation\HR.Infrastructure.Validation.csproj" />
+  </ItemGroup>
+
+</Project>

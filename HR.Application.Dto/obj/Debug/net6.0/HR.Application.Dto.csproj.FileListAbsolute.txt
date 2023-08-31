@@ -1,0 +1,15 @@
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Dto\obj\Debug\net6.0\HR.Application.Dto.csproj.AssemblyReference.cache
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Dto\obj\Debug\net6.0\HR.Application.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Dto\obj\Debug\net6.0\HR.Application.Dto.AssemblyInfoInputs.cache
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Dto\obj\Debug\net6.0\HR.Application.Dto.AssemblyInfo.cs
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Dto\obj\Debug\net6.0\HR.Application.Dto.csproj.CoreCompileInputs.cache
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Dto\bin\Debug\net6.0\HR.Application.Dto.deps.json
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Dto\bin\Debug\net6.0\HR.Application.Dto.dll
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Dto\bin\Debug\net6.0\HR.Application.Dto.pdb
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Dto\bin\Debug\net6.0\HR.Domain.Core.dll
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Dto\bin\Debug\net6.0\HR.Domain.Core.pdb
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Dto\obj\Debug\net6.0\HR.Application.Dto.csproj.CopyComplete
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Dto\obj\Debug\net6.0\HR.Application.Dto.dll
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Dto\obj\Debug\net6.0\refint\HR.Application.Dto.dll
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Dto\obj\Debug\net6.0\HR.Application.Dto.pdb
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Application.Dto\obj\Debug\net6.0\ref\HR.Application.Dto.dll

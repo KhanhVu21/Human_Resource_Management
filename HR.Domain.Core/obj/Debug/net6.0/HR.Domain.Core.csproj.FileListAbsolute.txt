@@ -1,0 +1,12 @@
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Domain.Core\bin\Debug\net6.0\HR.Domain.Core.deps.json
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Domain.Core\bin\Debug\net6.0\HR.Domain.Core.dll
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Domain.Core\bin\Debug\net6.0\HR.Domain.Core.pdb
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Domain.Core\obj\Debug\net6.0\HR.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Domain.Core\obj\Debug\net6.0\HR.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Domain.Core\obj\Debug\net6.0\HR.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Domain.Core\obj\Debug\net6.0\HR.Domain.Core.AssemblyInfo.cs
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Domain.Core\obj\Debug\net6.0\HR.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Domain.Core\obj\Debug\net6.0\HR.Domain.Core.dll
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Domain.Core\obj\Debug\net6.0\refint\HR.Domain.Core.dll
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Domain.Core\obj\Debug\net6.0\HR.Domain.Core.pdb
+C:\Users\khanhzu\Desktop\HumanResourceManagement\HR.Domain.Core\obj\Debug\net6.0\ref\HR.Domain.Core.dll
